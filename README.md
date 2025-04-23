@@ -1,18 +1,18 @@
-<h1 align="center">👋 Olá, eu sou o Cláudio Guimarães!</h1>
-<p align="center">🚀 Estudante de Ciência da Computação | 💻 Desenvolvedor Fullstack em evolução | 🤖 Apaixonado por IA</p>
+<h1 align="center">👋 Hello, I'm Cláudio Guimarães!</h1>
+<p align="center">🚀 Computer Science Student | 💻 Aspiring Fullstack Developer | 🤖 Enthusiastic about Artificial Intelligence</p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-- 🎓 Estudante de Ciência da Computação na Universidade Paulista
-- 👨‍💻 Trabalho com suporte técnico e atendimento ao cliente
-- 💡 Desenvolvo projetos com foco em inteligência artificial, automação e web
-- 🧩 Curioso por tudo que envolve tecnologia e produtividade
+- 🎓 I'm currently pursuing a degree in Computer Science at Universidade Paulista.
+- 👨‍💻 I have experience in customer service and real-time technical support.
+- 💡 I develop projects focused on artificial intelligence, automation, and web technologies.
+- 🧩 I'm driven by curiosity and constantly exploring ways to improve systems and productivity through technology.
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Technologies & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ClaudioSGN&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 📫 Como me encontrar
+### 📫 Get in Touch
 
 <div align="left">
   <a href="https://www.linkedin.com/in/claudioguimaraes" target="_blank">
@@ -50,5 +50,3 @@
 ---
 
 <img src="https://github.com/ClaudioSGN/ClaudioSGN/blob/main/output/snake.svg" alt="Snake animation" />
-
-
