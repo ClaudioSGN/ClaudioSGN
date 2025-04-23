@@ -49,6 +49,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/ClaudioSGN/ClaudioSGN/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ClaudioSGN/ClaudioSGN/blob/main/output/snake.svg" alt="Snake animation" />
 
 
