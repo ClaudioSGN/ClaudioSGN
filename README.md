@@ -39,7 +39,7 @@
 ### 📫 Get in Touch
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/claudioguimaraes" target="_blank">
+  <a href="https://www.linkedin.com/in/claudio-sguimaraes/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="mailto:claudiosgn02@gmail.com">
