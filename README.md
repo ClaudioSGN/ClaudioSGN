@@ -51,3 +51,4 @@
 
 <img src="https://raw.githubusercontent.com/ClaudioSGN/ClaudioSGN/output/snake.svg" alt="Snake animation" />
 
+
